@@ -1,2 +1,2 @@
 # Form_submit
-This project is form submission of student trip with suing HTML,CSS,PHP and MYSQLi
+This project is form submission of student trip with uing HTML,CSS,PHP and MYSQLi
